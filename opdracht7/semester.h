@@ -1,5 +1,3 @@
-using namespace std;
-
 // Declaratie
 int opleidingSemesterH203;
 
