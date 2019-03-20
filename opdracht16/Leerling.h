@@ -46,7 +46,7 @@ void InvoerenLeerlingen(Leerling leerling[5])
 	leerling[1].geboorteDatum.dagMaandJaar[2] = 1980;
 	
 	// Initialisatie van Leerling3
-	leerling[2].naam = "MieJann";
+	leerling[2].naam = "Jan";
 	leerling[2].nummerMobiel[0] = 3;
 	leerling[2].nummerMobiel[1] = 345;
 	leerling[2].geboorteDatum.dagMaandJaar[0] = 01;
@@ -54,7 +54,7 @@ void InvoerenLeerlingen(Leerling leerling[5])
 	leerling[2].geboorteDatum.dagMaandJaar[2] = 1980;
 
 	// Initialisatie van Leerling4
-	leerling[3].naam = "Jan";
+	leerling[3].naam = "Trui";
 	leerling[3].nummerMobiel[0] = 4;
 	leerling[3].nummerMobiel[1] = 456;
 	leerling[3].geboorteDatum.dagMaandJaar[0] = 21;
