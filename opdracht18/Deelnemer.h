@@ -21,7 +21,6 @@ public:
 	// Constructor
 	Deelnemer()
 	{
-
 	};
 
 	// Methoden

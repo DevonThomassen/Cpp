@@ -24,5 +24,6 @@ int main()
 	// Functieaanroep
 	deelnemer1.Invoeren();
 	deelnemer1.Weergeven();
+
 	system("pause");
 }
